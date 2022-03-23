@@ -1,0 +1,12 @@
+{
+  "clientes": [
+    {
+      "nombre": "Jose",
+      "empresa": "Empresa",
+      "email": "correo@correo.com",
+      "telefono": "1234567",
+      "notas": "El cliente solicita un pedido",
+      "id": 1
+    }
+  ]
+}
