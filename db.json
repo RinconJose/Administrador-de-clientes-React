@@ -7,6 +7,22 @@
       "telefono": "1234567",
       "notas": "El cliente solicita un pedido",
       "id": 1
+    },
+    {
+      "nombre": "Ana",
+      "empresa": "Empresa Ana",
+      "email": "ana@ana.com",
+      "telefono": "9855432467",
+      "notas": "Ana quiere toner",
+      "id": 2
+    },
+    {
+      "nombre": "juan",
+      "empresa": "empresa juan",
+      "email": "juan@juan.com",
+      "telefono": "1836487678",
+      "notas": "Juan requiere una cotización",
+      "id": 3
     }
   ]
 }
