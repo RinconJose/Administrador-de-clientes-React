@@ -1,36 +1,20 @@
 {
   "clientes": [
     {
-      "nombre": "Jose Actualizado",
-      "empresa": "Empresa",
-      "email": "correo@correo.com",
-      "telefono": "1234567",
-      "notas": "El cliente solicita un pedido",
+      "nombre": "Jose",
+      "empresa": "Jose Empresa",
+      "email": "jose@jse.com",
+      "telefono": "4247234",
+      "notas": "Jose necesita comprar un producto",
       "id": 1
     },
     {
-      "nombre": "Ana",
-      "empresa": "Empresa Ana",
-      "email": "ana@ana.com",
-      "telefono": "9855432467",
-      "notas": "Ana quiere toner",
-      "id": 2
-    },
-    {
-      "nombre": "Juan",
-      "empresa": "CCJ",
-      "email": "juan@juan.com",
-      "telefono": "1836487678",
-      "notas": "Juan requiere una cotización",
+      "nombre": "Salome",
+      "empresa": "Salome Empresa",
+      "email": "salome@salome.com",
+      "telefono": "5345435",
+      "notas": "Salome necesita comprar un producto",
       "id": 3
-    },
-    {
-      "nombre": "Mauricio",
-      "empresa": "Mauricio empresa",
-      "email": "mauricio@mauricio.com",
-      "telefono": "1234567998654",
-      "notas": "",
-      "id": 4
     }
   ]
 }
