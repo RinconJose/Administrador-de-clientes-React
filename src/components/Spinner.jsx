@@ -1,6 +1,6 @@
-import "../style/Spiner.css"
+import "../style/Spinner.css"
 
-const Sniper = () => {
+const Spinner = () => {
     return (
         <div className="sk-chase">
             <div className="sk-chase-dot"></div>
@@ -13,4 +13,4 @@ const Sniper = () => {
     )
 }
 
-export default Sniper
+export default Spinner

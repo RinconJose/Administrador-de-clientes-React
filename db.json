@@ -1,7 +1,7 @@
 {
   "clientes": [
     {
-      "nombre": "Jose",
+      "nombre": "Jose Actualizado",
       "empresa": "Empresa",
       "email": "correo@correo.com",
       "telefono": "1234567",
@@ -17,8 +17,8 @@
       "id": 2
     },
     {
-      "nombre": "juan",
-      "empresa": "empresa juan",
+      "nombre": "Juan",
+      "empresa": "CCJ",
       "email": "juan@juan.com",
       "telefono": "1836487678",
       "notas": "Juan requiere una cotización",

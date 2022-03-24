@@ -1,6 +1,6 @@
 import { useEffect, useState } from 'react'
 import { useParams } from 'react-router-dom'
-import Sniper from '../components/Sniper'
+import Spinner from '../components/Spinner'
 
 const VerCliente = () => {
 
@@ -25,7 +25,7 @@ const VerCliente = () => {
     }, [])
 
     return (
-        cargando ? <Sniper /> : 
+        cargando ? <Spinner /> : 
             Object.keys(cliente).length === 0 ? 
             <p>No hay resultados</p> : 
             (
